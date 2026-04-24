@@ -42,3 +42,4 @@ if (playerScore < CPUScore){console.log("YOU LOSE")}
 if (playerScore === CPUScore){console.log("DRAW")}
 console.log("==================================")
 });
+alert("チンチロリンゲーム")
