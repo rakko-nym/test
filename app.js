@@ -47,7 +47,6 @@ alert("チンチロリンゲーム")
 function consol(i) {
     const target = document.getElementById('output');
     if (target) {
-        // <br>を入れると改行されます
         target.innerHTML += i + "<br>"; 
     }
 }
